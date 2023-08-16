@@ -1,1 +1,1 @@
-#Predicting Heart Disease using Random Forest Algorithm from Scratch
+# Predicting Heart Disease using Decision Tree Algorithm from Scratch
